@@ -2,7 +2,9 @@
 
 Die Veranstaltung finden via Zoom statt und beginnt jeweils um 18.15 Uhr.
 
-Einwahl zur Veranstaltung über folgenden Link: <https://lmu-munich.zoom.us/j/99426087417?pwd=TFlLUDUxZVJJZE5aUkJnVDRsdkNqUT09>
+Einwahl zur Veranstaltung über folgenden Link: 
+
+<https://lmu-munich.zoom.us/j/99426087417?pwd=TFlLUDUxZVJJZE5aUkJnVDRsdkNqUT09>
 
 oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 
