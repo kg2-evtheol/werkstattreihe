@@ -1,6 +1,6 @@
 # Martin Luther und Katharina von Bora. Männer- und Frauenbilder aus fünf Jahrhunderten
 
-Die Veranstaltung finden via Zoom statt und beginnt jeweils um 18.15 Uhr.
+Die Veranstaltung findet via Zoom statt und beginnt jeweils um 18.15 Uhr.
 
 Einwahl zur Veranstaltung über folgenden Link: 
 
