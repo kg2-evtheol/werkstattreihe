@@ -5,6 +5,7 @@ Die Veranstaltung finden via Zoom statt und beginnt jeweils um 18.15 Uhr.
 ![Luther](Luther_und_Katharina.png "Luther und Katharina")
 
 Einwahl zur Veranstaltung über folgenden Link: <https://lmu-munich.zoom.us/j/99426087417?pwd=TFlLUDUxZVJJZE5aUkJnVDRsdkNqUT09>
+
 oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 
 
@@ -18,5 +19,7 @@ oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 
 # Organisiert von
 Carlotta Israel und Camilla Schneider
+
 Wissenschaftliche Mitarbeiterinnen am Lehrstuhl Kirchengeschichte II
+
 Evangelisch-Theologische Fakultät LMU München
