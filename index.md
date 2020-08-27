@@ -1,4 +1,4 @@
-# Martin Luther und Katharina von Bora. Männer- und Frauenbilder aus fünf Jahrhunderten
+## Martin Luther und Katharina von Bora. Männer- und Frauenbilder aus fünf Jahrhunderten
 
 Die Veranstaltung findet via Zoom statt und beginnt jeweils um 18.15 Uhr.
 
@@ -10,7 +10,7 @@ oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 
 ![Luther](Luther_und_Katharina.png "Luther und Katharina")
 
-# Termine
+## Termine
 
 - Montag   09.11.20:  16. Jahrhundert   PD Dr. Anna-Katharina Höpflinger
 - Dienstag 17.11.20:  17. Jahrhundert   Sr. PD. Dr. Nicole Grochowina 
@@ -18,7 +18,7 @@ oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 - Montag   30.11.20:  19. Jahrhundert   Prof. Dr. Albrecht Geck
 - Dienstag 08.12.20:  20. Jahrhundert   Dr. habil. Katharina Kunter
 
-# Organisiert von
+## Organisiert von
 Carlotta Israel und Camilla Schneider
 
 Wissenschaftliche Mitarbeiterinnen am Lehrstuhl Kirchengeschichte II
