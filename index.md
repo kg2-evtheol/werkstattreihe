@@ -1,3 +1,4 @@
+## Teilnahme
 Die Veranstaltung findet via Zoom statt und beginnt jeweils um 18.15 Uhr.
 
 Einwahl zur Veranstaltung über folgenden Link: 
