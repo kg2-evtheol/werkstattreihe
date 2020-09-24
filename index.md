@@ -1,4 +1,5 @@
-## Teilnahme
+## Wo Sie uns finden
+
 Die Veranstaltung findet via Zoom statt und beginnt jeweils um 18.15 Uhr.
 
 Einwahl zur Veranstaltung über folgenden Link: 
@@ -7,9 +8,11 @@ Einwahl zur Veranstaltung über folgenden Link:
 
 oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 
+Herzliche Einladung an alle Interessierten!
+
 ![Luther](Luther_und_Katharina.png "Luther und Katharina")
 
-## Termine
+## Wann wir uns treffen
 
 **Montag** | **09.11.20**| **16. Jahrhundert** | **PD Dr. Anna-Katharina Höpflinger**
 **Dienstag** | **17.11.20**| **17. Jahrhundert** | **Sr. PD. Dr. Nicole Grochowina** 
@@ -17,6 +20,7 @@ oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 **Montag** | **30.11.20** | **19. Jahrhundert** | **Prof. Dr. Albrecht Geck**
 **Dienstag** | **08.12.20** | **20. Jahrhundert** | **Dr. habil. Katharina Kunter**
 
+## Worum es geht
 Martin Luther und Katharina von Bora wurden schon zu Lebzeiten zu beliebten Motiven besonders der Cranach-Schule. Doch die Bilder von ihnen sind nicht nur gegenständlich in den protestantischen Grundkanon aufgenommen. Aussprüche wie "Herr Käthe" präg(t)en Ideale von Frauen. Ebenso dien(t)en Luthertypisierungen als Beschreibung von teilweise dezidiert protestantischer Männlichkeit.
 
 Ein Blick in die Forschungsgeschichte zeigt, dass bisher die Frage nach der Deutung Martin Luthers in den verschiedenen Jahrhunderten im Zentrum stand. Die Frage, wie Katharina von Bora im Verlauf der Jahrhunderte erinnert und interpretiert wurde und wie sie das jeweilige Frauenbild der Zeit prägte, spielte bislang keine maßgebliche Rolle.
