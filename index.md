@@ -32,3 +32,5 @@ Carlotta Israel und Camilla Schneider
 Wissenschaftliche Mitarbeiterinnen am Lehrstuhl Kirchengeschichte II
 
 Evangelisch-Theologische Fakultät LMU München
+
+<https://www.kg2.evtheol.uni-muenchen.de/>
