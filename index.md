@@ -8,8 +8,6 @@ Einwahl zur Veranstaltung über folgenden Link:
 
 oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 
-Herzliche Einladung an alle Interessierten!
-
 ![Luther](Luther_und_Katharina.png "Luther und Katharina")
 
 ## Wann wir uns treffen
@@ -19,6 +17,8 @@ Herzliche Einladung an alle Interessierten!
 **Mittwoch** | **25.11.20** | **18. Jahrhundert** | **Prof. Dr. Martin Keßler**
 **Montag** | **30.11.20** | **19. Jahrhundert** | **Prof. Dr. Albrecht Geck**
 **Dienstag** | **08.12.20** | **20. Jahrhundert** | **Dr. habil. Katharina Kunter**
+
+Herzliche Einladung an alle Interessierten!
 
 ## Worum es geht
 Martin Luther und Katharina von Bora wurden schon zu Lebzeiten zu beliebten Motiven besonders der Cranach-Schule. Doch die Bilder von ihnen sind nicht nur gegenständlich in den protestantischen Grundkanon aufgenommen. Aussprüche wie "Herr Käthe" präg(t)en Ideale von Frauen. Ebenso dien(t)en Luthertypisierungen als Beschreibung von teilweise dezidiert protestantischer Männlichkeit.
