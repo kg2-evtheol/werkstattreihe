@@ -11,11 +11,11 @@ oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 
 ## Termine
 
-**Montag** | **09.11.20:**| **16. Jahrhundert** | PD Dr. Anna-Katharina Höpflinger
-Dienstag | 17.11.20:| 17. Jahrhundert | Sr. PD. Dr. Nicole Grochowina 
-Mittwoch | 25.11.20: | 18. Jahrhundert | Prof. Dr. Martin Keßler
-Montag | 30.11.20: | 19. Jahrhundert | Prof. Dr. Albrecht Geck
-Dienstag | 08.12.20: | 20. Jahrhundert | Dr. habil. Katharina Kunter
+**Montag** | **09.11.20**| **16. Jahrhundert** | **PD Dr. Anna-Katharina Höpflinger**
+**Dienstag** | **17.11.20**| **17. Jahrhundert** | **Sr. PD. Dr. Nicole Grochowina** 
+**Mittwoch** | **25.11.20** | **18. Jahrhundert** | **Prof. Dr. Martin Keßler**
+**Montag** | **30.11.20** | **19. Jahrhundert** | **Prof. Dr. Albrecht Geck**
+**Dienstag** | **08.12.20** | **20. Jahrhundert** | **Dr. habil. Katharina Kunter**
 
 Martin Luther und Katharina von Bora wurden schon zu Lebzeiten zu beliebten Motiven besonders der Cranach-Schule. Doch die Bilder von ihnen sind nicht nur gegenständlich in den protestantischen Grundkanon aufgenommen. Aussprüche wie "Herr Käthe" präg(t)en Ideale von Frauen. Ebenso dien(t)en Luthertypisierungen als Beschreibung von teilweise dezidiert protestantischer Männlichkeit.
 
