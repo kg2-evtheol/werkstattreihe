@@ -58,7 +58,7 @@ Weitere Informationen unter: <https://www.katharina-kunter.de/>
 
 ## Organisatorinnen
 
-Carlotta Israel und Camilla Schneider
+**Carlotta Israel und Camilla Schneider**
 
 Wissenschaftliche Mitarbeiterinnen am Lehrstuhl Kirchengeschichte II
 
