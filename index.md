@@ -2,18 +2,18 @@
 
 Die Veranstaltung findet via Zoom statt und beginnt jeweils um 18:15 Uhr.
 
-Einwahl zur Veranstaltung über folgenden Link: 
+Einwahl zur Veranstaltung über folgenden Link:
 
 <https://lmu-munich.zoom.us/j/99426087417?pwd=TFlLUDUxZVJJZE5aUkJnVDRsdkNqUT09>
 
-oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
+oder über Meeting-ID: 994 2608 7417 und Kenncode: 500167
 
 ![Luther](Luther_und_Katharina.png "Luther und Katharina")
 
 ## Wann wir uns treffen
 
 **Montag** | **09.11.20**| **16. Jahrhundert** | **PD Dr. Anna-Katharina Höpflinger**
-**Dienstag** | **17.11.20**| **17. Jahrhundert** | **Sr. PD. Dr. Nicole Grochowina** 
+**Dienstag** | **17.11.20**| **17. Jahrhundert** | **Sr. PD. Dr. Nicole Grochowina**
 **Mittwoch** | **25.11.20** | **18. Jahrhundert** | **Prof. Dr. Martin Keßler**
 **Montag** | **30.11.20** | **19. Jahrhundert** | **Prof. Dr. Albrecht Geck**
 **Dienstag** | **08.12.20** | **20. Jahrhundert** | **Dr. habil. Katharina Kunter**
@@ -21,6 +21,7 @@ oder über Meeting-ID:  994 2608 7417 und Kenncode:    500167
 Herzliche Einladung an alle Interessierten!
 
 ## Worum es geht
+
 Martin Luther und Katharina von Bora wurden schon zu Lebzeiten zu beliebten Motiven besonders der Cranach-Schule. Doch die Bilder von ihnen sind nicht nur gegenständlich in den protestantischen Grundkanon aufgenommen. Aussprüche wie "Herr Käthe" präg(t)en Ideale von Frauen. Ebenso dien(t)en Luthertypisierungen als Beschreibung von teilweise dezidiert protestantischer Männlichkeit.
 
 Ein Blick in die Forschungsgeschichte zeigt, dass bisher die Frage nach der Deutung Martin Luthers in den verschiedenen Jahrhunderten im Zentrum stand. Die Frage, wie Katharina von Bora im Verlauf der Jahrhunderte erinnert und interpretiert wurde und wie sie das jeweilige Frauenbild der Zeit prägte, spielte bislang keine maßgebliche Rolle.
@@ -31,11 +32,11 @@ An den fünf Vortragsabenden der Werkstattreihe stellen die Referierenden online
 
 ## Biographien der Referierenden
 
-**Anna-Katharina Höpflinger** studierte Religionswissenschaft an der Universität Zürich, wo sie 2010 mit einer Arbeit über Drachenkampfmythen promoviert wurde. Neben Projektmitarbeiten in „Uncovering Gender“ in Neuchâtel und „Commun(icat)ing Bodies“ in Graz arbeitete sie zwischen 2011 und 2016 als Assistentin und Oberassistentin am Zentrum für Religion, Wirtschaft und Politik der Universität Zürich. Seit 2016 ist sie akademische Rätin an der LMU München. Sie habilitierte sich 2019 an der Universität Luzern. Ihre Forschungsschwerpunkte umfassen europäische und antike Religionsgeschichte, Medien und Religion, Körper, Kleidung und Gender, Bestattungskultur, sowie Religion und Heavy Metal.
+**Anna-Katharina Höpflinger** studierte Religionswissenschaft an der Universität Zürich, wo sie 2010 mit einer Arbeit über Drachenkampfmythen promoviert wurde. Neben Projektmitarbeiten in „Uncovering Gender“ in Neuchâtel und „Commun(icat)ing Bodies“ in Graz arbeitete sie zwischen 2011 und 2016 als Assistentin und Oberassistentin am Zentrum für Religion, Wirtschaft und Politik der Universität Zürich. Seit 2016 ist sie akademische Rätin an der LMU München. Sie habilitierte sich 2019 an der Universität Luzern. Ihre Forschungsschwerpunkte umfassen europäische und antike Religionsgeschichte, Medien und Religion, Körper, Kleidung und Gender, Bestattungskultur, sowie Religion und Heavy Metal.|![Hoepflinger](akh.jpg "Anna-Katharina Höpflinger")
 
-Weitere Informationen unter: <https://www.rw.evtheol.uni-muenchen.de/personen/wissenschaftliche-mitarbeiter/hoepfl/index.html> 
+Weitere Informationen unter: <https://www.rw.evtheol.uni-muenchen.de/personen/wissenschaftliche-mitarbeiter/hoepfl/index.html>
 
-**Nicole Grochowina** studierte Geschichtswissenschaft, Japanologie und Ethnologie in Hamburg. Mit einer Arbeit über konfessionelle Indifferenz und Dissidententum in Ostfriesland wurde sie 2001 promoviert. 2007 folgte die Habilitation für Neuere Geschichte an der Universität Jena mit einer Arbeit über Eigentums- und Besitzstreitigkeiten von Frauen Ende des 18. Jahrhunderts. Nach verschiedenen Lehrtätigkeiten in Jena und Erlangen, ist sie seit 2018 am Lehrstuhl für Neuere Kirchengeschichte an der FAU Erlangen-Nürnberg tätig. Ihre Forschungsinteressen beziehen sich unter anderem auf Fragen der Konfessionsgeschichte und der Frauen- und Geschlechtergeschichte. Seit 2008 ist sie Ordensschwester der Communität Christusbruderschaft in Selbitz.
+**Nicole Grochowina** studierte Geschichtswissenschaft, Japanologie und Ethnologie in Hamburg. Mit einer Arbeit über konfessionelle Indifferenz und Dissidententum in Ostfriesland wurde sie 2001 promoviert. 2007 folgte die Habilitation für Neuere Geschichte an der Universität Jena mit einer Arbeit über Eigentums- und Besitzstreitigkeiten von Frauen Ende des 18. Jahrhunderts. Nach verschiedenen Lehrtätigkeiten in Jena und Erlangen, ist sie seit 2018 am Lehrstuhl für Neuere Kirchengeschichte an der FAU Erlangen-Nürnberg tätig. Ihre Forschungsinteressen beziehen sich unter anderem auf Fragen der Konfessionsgeschichte und der Frauen- und Geschlechtergeschichte. Seit 2008 ist sie Ordensschwester der Communität Christusbruderschaft in Selbitz.|![Grochowina](Grochowina.jpg "Nicole Grochowina")
 
 Weitere Informationen unter: <https://www.theologie.fau.de/institut-kg-landing/kg-2-neu/pd-dr-nicole-grochowina/>
 
@@ -51,8 +52,8 @@ Weitere Informationen unter: <https://www.ev-theologie.uni-osnabrueck.de/diszipl
 
 Weitere Informationen unter: <https://www.katharina-kunter.de/>
 
-
 ## Organisatorinnen
+
 Carlotta Israel und Camilla Schneider
 
 Wissenschaftliche Mitarbeiterinnen am Lehrstuhl Kirchengeschichte II
