@@ -46,13 +46,19 @@ Weitere Informationen unter: <https://www.theologie.fau.de/institut-kg-landing/k
 
 **Martin Keßler** studierte evangelische Theologie in Heidelberg, Erlangen und München. Anschließend war er wissenschaftlicher Mitarbeiter an der Schiller-Universität Jena, bevor er 2006 über Johann Gottfried Herder promoviert wurde. Es folgten Tätigkeiten als Oberassistent für Kirchen- und Theologiegeschichte an der Universität Basel (2006–2009) und Assistent für Kirchengeschichte an der Georg-August-Universität Göttingen, wo er sich 2013 über das Bild Andreas Bodenstein von Karlstadts in der Forschung habilitierte. Er arbeitete an der Karlstadt-Edition und versah Lehrstuhlvertretungen in Bonn und Göttingen. 2018 bis 2020 hatte er eine Heisenberg-Professur in Frankfurt (Main) inne. Seit Anfang 2020 ist er Professor für Kirchen- und Theologiegeschichte an der Universität Basel.
 
+![Kessler](kessler.jpg "Martin Keßler")
+
 Weitere Informationen unter: <https://theologie.unibas.ch/de/personen/martin-kessler/>
 
 **Albrecht Geck** studierte Evangelische Theologie und Anglistik in Marburg, Münster und in Oxford und legte das 1. und 2. Staatsexamen für das Lehramt ab. 1996 wurde er mit einer kirchenhistorischen Arbeit über Schleiermacher als Kirchenpolitiker promoviert. 2008 habilitierte er sich an der Universität Osnabrück zu einer Arbeit über den Briefwechsel zwischen E. B. Pusey und F. A. G. Tholuck. Seit 2012 ist er außerplanmäßiger Professor an der Universität Osnabrück. Zudem ist er seit 2013 Mitglied der Kommission für Kirchliche Zeitgeschichte der Evangelischen Kirche in Westphalen. Er arbeitete zudem zur Bildnisgeschichte Luthers in den vergangenen fünf Jahrhunderten und entwickelte in diesem Kontext eine mobile Lutherausstellung mit dem Titel „Von Cranach zur Bildzeitung“.
 
+![Geck](Geck.png "Albrecht Geck")
+
 Weitere Informationen unter: <https://www.ev-theologie.uni-osnabrueck.de/disziplinen/historische_theologie/apl_prof_dr_albrecht_geck.html>
 
 **Katharina Kunter** studierte Evangelische Theologie und Geschichte in Gießen und Heidelberg und legte das 1. und 2. Staatsexamen für das Lehramt an Gymnasien ab. 1998 wurde sie mit einer Arbeit zu den Kirchen im KSZE-Prozess promoviert. 2004 erfolgte ihre Habilitation mit einer Arbeit über evangelische Kirchen in Deutschland zwischen Demokratie und Sozialismus. Nach Forschungs- und Lehraufenthalten in Aarhus und Tartu und Göttingen ist sie seit 2018 an der Theologischen Fakultät der Universität in Helsinki zunächst als Fellow, dann als Dozentin und seit August 2020 als Professorin für Kirchliche Zeitgeschichte tätig.
+
+![Kunter](Kunter.jpg "Katharina Kunter")
 
 Weitere Informationen unter: <https://www.katharina-kunter.de/>
 
