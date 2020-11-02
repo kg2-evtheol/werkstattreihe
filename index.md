@@ -32,11 +32,15 @@ An den fünf Vortragsabenden der Werkstattreihe stellen die Referierenden online
 
 ## Biographien der Referierenden
 
-**Anna-Katharina Höpflinger** studierte Religionswissenschaft an der Universität Zürich, wo sie 2010 mit einer Arbeit über Drachenkampfmythen promoviert wurde. Neben Projektmitarbeiten in „Uncovering Gender“ in Neuchâtel und „Commun(icat)ing Bodies“ in Graz arbeitete sie zwischen 2011 und 2016 als Assistentin und Oberassistentin am Zentrum für Religion, Wirtschaft und Politik der Universität Zürich. Seit 2016 ist sie akademische Rätin an der LMU München. Sie habilitierte sich 2019 an der Universität Luzern. Ihre Forschungsschwerpunkte umfassen europäische und antike Religionsgeschichte, Medien und Religion, Körper, Kleidung und Gender, Bestattungskultur, sowie Religion und Heavy Metal.|![Hoepflinger](akh.jpg "Anna-Katharina Höpflinger")
+**Anna-Katharina Höpflinger** studierte Religionswissenschaft an der Universität Zürich, wo sie 2010 mit einer Arbeit über Drachenkampfmythen promoviert wurde. Neben Projektmitarbeiten in „Uncovering Gender“ in Neuchâtel und „Commun(icat)ing Bodies“ in Graz arbeitete sie zwischen 2011 und 2016 als Assistentin und Oberassistentin am Zentrum für Religion, Wirtschaft und Politik der Universität Zürich. Seit 2016 ist sie akademische Rätin an der LMU München. Sie habilitierte sich 2019 an der Universität Luzern. Ihre Forschungsschwerpunkte umfassen europäische und antike Religionsgeschichte, Medien und Religion, Körper, Kleidung und Gender, Bestattungskultur, sowie Religion und Heavy Metal.
+
+![Hoepflinger](akh.jpg "Anna-Katharina Höpflinger")
 
 Weitere Informationen unter: <https://www.rw.evtheol.uni-muenchen.de/personen/wissenschaftliche-mitarbeiter/hoepfl/index.html>
 
-**Nicole Grochowina** studierte Geschichtswissenschaft, Japanologie und Ethnologie in Hamburg. Mit einer Arbeit über konfessionelle Indifferenz und Dissidententum in Ostfriesland wurde sie 2001 promoviert. 2007 folgte die Habilitation für Neuere Geschichte an der Universität Jena mit einer Arbeit über Eigentums- und Besitzstreitigkeiten von Frauen Ende des 18. Jahrhunderts. Nach verschiedenen Lehrtätigkeiten in Jena und Erlangen, ist sie seit 2018 am Lehrstuhl für Neuere Kirchengeschichte an der FAU Erlangen-Nürnberg tätig. Ihre Forschungsinteressen beziehen sich unter anderem auf Fragen der Konfessionsgeschichte und der Frauen- und Geschlechtergeschichte. Seit 2008 ist sie Ordensschwester der Communität Christusbruderschaft in Selbitz.|![Grochowina](Grochowina.jpg "Nicole Grochowina")
+**Nicole Grochowina** studierte Geschichtswissenschaft, Japanologie und Ethnologie in Hamburg. Mit einer Arbeit über konfessionelle Indifferenz und Dissidententum in Ostfriesland wurde sie 2001 promoviert. 2007 folgte die Habilitation für Neuere Geschichte an der Universität Jena mit einer Arbeit über Eigentums- und Besitzstreitigkeiten von Frauen Ende des 18. Jahrhunderts. Nach verschiedenen Lehrtätigkeiten in Jena und Erlangen, ist sie seit 2018 am Lehrstuhl für Neuere Kirchengeschichte an der FAU Erlangen-Nürnberg tätig. Ihre Forschungsinteressen beziehen sich unter anderem auf Fragen der Konfessionsgeschichte und der Frauen- und Geschlechtergeschichte. Seit 2008 ist sie Ordensschwester der Communität Christusbruderschaft in Selbitz.
+
+![Grochowina](Grochowina.jpg "Nicole Grochowina")
 
 Weitere Informationen unter: <https://www.theologie.fau.de/institut-kg-landing/kg-2-neu/pd-dr-nicole-grochowina/>
 
